@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [wxArt2D 简介](wxart2d-jian-jie.md)
+* [wxArt2D 简介](README.md)
+* [安装](an-zhuang.md)
 

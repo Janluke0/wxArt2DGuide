@@ -1,2 +1,2 @@
-# Initial page
+# wxArt2D 简介
 
